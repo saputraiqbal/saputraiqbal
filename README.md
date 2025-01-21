@@ -1,4 +1,12 @@
-## Hi there 👋
+## Assalamu'alaikum. Hi there! 👋
+
+### Hi, my name is Iqbal Santoso Putra, also called as Iqbal.
+
+An Android developer for over 5 years, since circa 2019. Currently working at [**@IDN-Media**](https://github.com/IDN-Media) and had some experiences at some tech companies. Have powers in Android development using Java and Kotlin. Got experiences in some design architecturals such as MVVM and MVI.
+
+Contributions in [@IDN-Media](https://github.com/IDN-Media) on previous account as iqbal.putra@idntimes.com
+
+![putraiqbal's Commits](https://github.com/user-attachments/assets/4b31d1c9-19b4-4b1a-91ef-10baa6b7bef4)
 
 <!--
 **saputraiqbal/saputraiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
